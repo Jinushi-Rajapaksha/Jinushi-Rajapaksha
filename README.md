@@ -2,8 +2,9 @@
 <h2> 😎 A Passionate Software Developer From Sri lanka </h2>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="500"/>
+<h3> 👨🏻‍💻 About Me </h3><br>
+<div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif" width="500"/></div>
 
 - 🔭 &nbsp; I’m currently Undergraduate at University of Westminster.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.

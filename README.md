@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">😇 I'm Jinushi Rajapaksha</h1>
 <h2> 😎 A Passionate Software Developer From Sri lanka </h2>
-<img align="right" alt="GIF" src="https://github.com/Jinushi-Rajapaksha/Jinushi-Rajapaksha/assets/154695490/fb4784b1-6e55-48c8-b3b1-951a54129fb6" width="500"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently Undergraduate at University of Westminster.
